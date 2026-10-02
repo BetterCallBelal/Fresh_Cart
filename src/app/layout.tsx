@@ -20,7 +20,7 @@ const ExoFont = Exo({
 
 
 export const metadata: Metadata = {
-  title: "[FreshCart]",
+  title: "FreshCart",
   description: "You will find Whatever You Want!",
 };
 
